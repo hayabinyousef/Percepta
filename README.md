@@ -1,8 +1,7 @@
 # Percepta 
 ## Overview 
-it is an AI powered software that detects the surrounding sounds and notifie users by watch vibaration and led lights 
-
+AI-powered device that is designed to improve personal and household awareness by detecting important environmental sounds such as footsteps, running water, and even appliance activity in real time By providing immediate LED alerts and mobile connected to watch for vibration alerts
 ## more info 
-it is a graduation project and it is still under development 
+it is still under development 
 ## developers
 Bushra and Haya 
